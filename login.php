@@ -7,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $usuario = $_POST['usuario'];
     $password = $_POST['password'];
     
-    if ($usuario == '24160720@itoaxaca.edu.mx' && $password == '24160720ITO') {
+    if ($usuario == '24160720@itoaxaca.edu.mx' && $password == '24160720ito') {
         $_SESSION['admin_logueado'] = true;
         header('Location: admin.php');
         exit;
