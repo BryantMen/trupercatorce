@@ -170,7 +170,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <div class="logo-circle">
                 <img src="imagenes/logo.png" alt="Truper">
             </div>
-            <h2>Iniciar Sesion</h2>
+            <h2>Panel Bryant</h2>
             <p>Sistema de gestion de inventario</p>
         </div>
         
