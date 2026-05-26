@@ -20,7 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Iniciar Sesion - Truper</title>
+    <title>Panel Admin Bryant - Truper</title>
     <style>
         * {
             margin: 0;
